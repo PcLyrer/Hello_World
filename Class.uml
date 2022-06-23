@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Class</OriginalElement>
+  <nodes>
+    <node x="262.00000000000006" y="79.0">java.lang.reflect.GenericDeclaration</node>
+    <node x="457.00000000000006" y="79.0">java.lang.reflect.Type</node>
+    <node x="0.0" y="79.0">java.lang.Object</node>
+    <node x="307.50000000000006" y="158.0">java.lang.Class</node>
+    <node x="110.00000000000006" y="79.0">java.io.Serializable</node>
+    <node x="317.75000000000006" y="0.0">java.lang.reflect.AnnotatedElement</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.reflect.GenericDeclaration" target="java.lang.reflect.AnnotatedElement">
+      <point x="0.0" y="-14.5" />
+      <point x="349.00000000000006" y="54.0" />
+      <point x="357.75000000000006" y="54.0" />
+      <point x="-40.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Class" target="java.lang.reflect.GenericDeclaration">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Class" target="java.lang.reflect.Type">
+      <point x="33.19999999999999" y="-14.5" />
+      <point x="382.20000000000005" y="138.0" />
+      <point x="495.00000000000006" y="138.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Class" target="java.io.Serializable">
+      <point x="-16.600000000000023" y="-14.5" />
+      <point x="332.40000000000003" y="128.0" />
+      <point x="176.00000000000006" y="128.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Class" target="java.lang.reflect.AnnotatedElement">
+      <point x="16.600000000000023" y="-14.5" />
+      <point x="365.6000000000001" y="128.0" />
+      <point x="446.50000000000006" y="128.0" />
+      <point x="446.50000000000006" y="54.0" />
+      <point x="437.75000000000006" y="54.0" />
+      <point x="40.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Class" target="java.lang.Object">
+      <point x="-33.19999999999999" y="-14.5" />
+      <point x="315.80000000000007" y="138.0" />
+      <point x="45.0" y="138.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="251.5" y="93.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
