@@ -6,4 +6,7 @@ package com.lxstudy;
  */
 
 public class Test {
+    public void m1(){
+
+    }
 }
